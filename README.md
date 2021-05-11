@@ -6,8 +6,8 @@
 
 ## General Comments:
 * I could use another GitHub lesson from Brandon to get my branching & Merging skills up to date
- *  Also good to ask him where in the FDA repo space he wants new eeDAP work to go
-  *   Applies to Sarah + Kate & HS students working on commenting/organizing code this summer.
+ **  Also good to ask him where in the FDA repo space he wants new eeDAP work to go
+  **   Applies to Sarah + Kate & HS students working on commenting/organizing code this summer.
 * For now, these edits are in their own repo: eeDAP_branchMe
 
 
